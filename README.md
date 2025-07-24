@@ -11,6 +11,11 @@ These dashboards were designed to demonstrate my skills in data wrangling, visua
 - `Data_Jobs_Dashboard.pbix`: Initial version of the dashboard with basic insights.
 - `Data_Jobs_Dashboard_2.0.pbix`: Enhanced version with improved visuals and interactivity.
 
+## 📦 Dataset
+
+The dataset used for these dashboards can be found here:  
+👉 [Google Drive Dataset Folder](https://drive.google.com/drive/folders/1nv7dlbq9M6OVqDLzhkP-qdDimo5L6JdA?usp=sharing)
+
 ## ✨ Features
 
 - Top job titles and their global distribution
